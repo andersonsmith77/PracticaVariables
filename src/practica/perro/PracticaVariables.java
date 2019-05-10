@@ -19,6 +19,8 @@ public class PracticaVariables {
             crush = teclado.nextLine();
            System.out.println("Ponete las pilas con "+crush+","+ " no seas tonto "+ nombre+ ".");
      
+           
+           System.out.println("no hay luz");
     }
     
 }
